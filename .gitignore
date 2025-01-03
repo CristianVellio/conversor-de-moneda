@@ -34,3 +34,6 @@ Thumbs.db
 # Generated files
 generated-sources/
 generated-test-sources/
+
+#Entorno
+.env
