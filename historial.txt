@@ -1,1 +1,2 @@
-03-01-2025 09:57:24 - MXN 250.0 Convertidos a monto equivalente de: USD 12.1125
+03-01-2025 10:45:21 - EUR 55.0 Convertidos a monto equivalente de: MXN 1166.4125
+03-01-2025 10:45:59 - EUR 65.0 Convertidos a monto equivalente de: MXN 1378.4875
