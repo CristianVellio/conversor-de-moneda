@@ -1,5 +1,10 @@
 <H1 align="center"> Conversor de Moneda 🟡 </H1>
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/52e9c9a2-4264-4ec4-a6a1-c75161d5e2aa" alt="conversor" width="200" height="200">
+
+</div>
+
 El **Conversor de Moneda** es una aplicación diseñada para realizar conversiones de divisas de manera sencilla y eficiente. El proyecto permite convertir entre diferentes monedas utilizando datos actualizados proporcionados por una API de terceros. Esta herramienta no solo es útil para cálculos rápidos, sino también para aprender buenas prácticas de programación en Java, como la modularidad, el manejo de excepciones y la integración con APIs externas.
 
 ---
